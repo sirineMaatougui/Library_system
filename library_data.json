@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "type": "Book",
+            "item_id": 1,
+            "title": "1",
+            "author": "test",
+            "available": true,
+            "borrowed_by": null
+        }
+    ],
+    "members": []
+}
